@@ -1,19 +1,16 @@
-# KY73D147.github.io
-```
-{
-  "firstName": "Kyle",
-  "lastName": "Gloriani",
-  "age": 15
-}
-```
+🚴‍♂️🚴‍♂️🚴‍♂️Team Pagod🚴‍♂️🚴‍♂️🚴‍
 
-Things I like to do:
-1. Ride my bike
-2. Play my guitar
-3. Spend time with my parents
+Bike Team
 
-My Favorite Football Player:
-Rob Gronkowski
+⚠️⚠️⚠️⚠️RECRUITING MEMBERS⚠️⚠️⚠️⚠️
 
-My Favorite Basketball Player:
-Derrick Rose
+Requirements:
+Must have a helmet
+Must show or know road rules
+Must have a road bike or a mountain bike
+Rinconada region only
+
+Kindly contact Tim Pagod on Facebook if interested
+
+
+
