@@ -1,8 +1,8 @@
-# 🚴‍♂️🚴‍♂️🚴‍♂️Team Pagod🚴‍♂️🚴‍♂️🚴‍
+#Team Pagod
 
-## Bike team located in Iriga City, Camarines Sur
+### Bike team located in Iriga City, Camarines Sur
 
-# ⚠️⚠️⚠️⚠️RECRUITING MEMBERS⚠️⚠️⚠️⚠️
+# RECRUITING MEMBERS
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/Pagod.jpg)
 
