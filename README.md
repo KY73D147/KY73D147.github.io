@@ -1,4 +1,4 @@
-#Team Pagod
+# Team Pagod
 
 ### Bike team located in Iriga City, Camarines Sur
 
