@@ -11,11 +11,11 @@
 
 _Requirements_:
 
-1. *Must have a helmet
+1. *Must have a helmet*
 
-2. *Must show or know road rules
+2. *Must show or know road rules*
 
-3. *Must have a road bike or a mountain bike
+3. *Must have a road bike or a mountain bike*
 
 4. *Rinconada region only*
 
